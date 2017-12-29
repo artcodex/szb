@@ -1,0 +1,12 @@
+[package]
+name = "szb"
+version = "0.1.0"
+authors = ["Avi Brenner <abrenner@salesforce.com>"]
+
+[dependencies]
+gfx = "0.16.2"
+sdl2 = "0.30.0"
+gfx_window_sdl = "0.7.0"
+
+
+
